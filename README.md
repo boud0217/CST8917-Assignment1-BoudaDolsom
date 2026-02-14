@@ -1,4 +1,4 @@
-﻿# Bouda Dolsom, 
+﻿# Bouda Dolsom
 # 041246719
 # CST8917
 # Serverless Computing - Critical Analysis
